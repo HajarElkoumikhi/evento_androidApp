@@ -17,16 +17,32 @@
 - 03/03/2019
 	- Added "project description".
 
+# PROJECT LOG:
+- 17/03/2019
+	- Charte graphique v1
+	- MCD v2
+	- Prototype appli iOS v1
+- 04/03/2019
+	- Defined project template.
+	- MCD v1
+	- Diagramme de classe v1
+	- Launched project's website 
+	
+- 03/03/2019
+	- Added "project description".
+
 # PROJECT JALONS:
 - 29 mars 2019
 - 20 mai 2019
 - 27 juin 2019
 
 
-# NEXT DEADLINE : 17/03/2019
-- MCD v2
+# NEXT DEADLINE : 23/03/2019
+- Prototype appli iOS v2
+- Prototype appli Android v1 
 - Diagramme de classe v2 
-- Charte graphique 
-- prototype appli iOS v1 
+- Cahier des charges v1
+- API (routes)
+- Site web : Clean template 
 
 
