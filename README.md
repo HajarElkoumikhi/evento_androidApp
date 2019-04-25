@@ -36,13 +36,3 @@
 - 20 mai 2019
 - 27 juin 2019
 
-
-# NEXT DEADLINE : 23/03/2019
-- Prototype appli iOS v2
-- Prototype appli Android v1 
-- Diagramme de classe v2 
-- Cahier des charges v1
-- API (routes)
-- Site web : Clean template 
-
-
