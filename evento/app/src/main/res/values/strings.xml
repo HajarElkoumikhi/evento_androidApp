@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">evento</string>
+    <string name="app_name">Evento</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Evento</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title">Détails</string>
+    <string name="menu_profil">Profil</string>
+    <string name="menu_events">Évènements</string>
+    <string name="menu_clients">Clients</string>
+    <string name="menu_membres">Membres</string>
+    <string name="menu_timeline">Évènements proches</string>
+    <string name="menu_about">À propos</string>
+    <string name="menu_deconnexion">Se déconnecter</string>
+
+
+    <string name="params_settings">Paramètres</string>
+
+
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="fgt_pwd">Mot de passe oublié ?</string>
+    <string name="login">Se connecter</string>
 </resources>
