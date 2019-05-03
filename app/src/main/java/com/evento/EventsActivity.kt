@@ -20,10 +20,10 @@ import com.api.loginGood
 import retrofit2.Callback
 import kotlinx.android.synthetic.main.dashboard2.*
 
-class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
+class EventsActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.dashboard2)
+        setContentView(R.layout.events)
         // Configure action bar
         setSupportActionBar(toolbar)
         val actionBar = supportActionBar
@@ -86,15 +86,6 @@ class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
             true
         }
 
-        btn_people.setOnClickListener{
-            showToast("click click")
-            //envoi sur la view events
-            val self = this
-            val intent = Intent(self, EventsActivity::class.java)
-
-            intent.putExtra("token", "test")
-            startActivity(intent)
-        }
     }
 
 

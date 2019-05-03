@@ -19,29 +19,7 @@
                         android:background="?attr/colorPrimary"
                         android:elevation="4dp"
                         android:fitsSystemWindows="true"/>
-                <ImageButton
-                        android:src="@drawable/people"
-                        android:layout_width="wrap_content"
-                        android:layout_height="150dp"
-                        android:id="@+id/btn_people"
-                        android:clickable="true"
-                        android:focusable="true"/>
-                <ImageButton
-                        android:src="@drawable/client"
-                        android:layout_width="wrap_content"
-                        android:layout_height="150dp"
-                        android:layout_centerInParent="true"
-                        android:id="@+id/btn_client"
-                        android:clickable="true"
-                        android:focusable="true"/>
-                <ImageButton
-                        android:src="@drawable/friends"
-                        android:layout_width="wrap_content"
-                        android:layout_height="150dp"
-                        android:layout_below="@id/btn_client"
-                        android:id="@+id/btn_events"
-                        android:clickable="true"
-                        android:focusable="true"/>
+
         </LinearLayout>
         <LinearLayout
                 android:id="@+id/drawer_header"
