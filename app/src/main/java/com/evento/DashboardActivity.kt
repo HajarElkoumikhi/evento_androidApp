@@ -13,14 +13,25 @@ import android.support.v4.widget.DrawerLayout
 import android.support.design.widget.NavigationView
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
+import android.util.Log
 import android.view.Menu
 import android.view.View
 import android.widget.Toast
+import com.api.APIProvider
+import com.api.ApiUtils
+import com.api.allEvents
 import com.api.loginGood
 import retrofit2.Callback
 import kotlinx.android.synthetic.main.dashboard2.*
+import retrofit2.Call
+import retrofit2.Response
+import retrofit2.adapter.rxjava2.Result.response
+import java.lang.reflect.Array
+
 
 class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
+    var mAPIProvider: APIProvider? = null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.dashboard2)
@@ -88,12 +99,29 @@ class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
 
         btn_people.setOnClickListener{
             showToast("click click")
-            //envoi sur la view events
+            mAPIProvider = ApiUtils.apiService
             val self = this
-            val intent = Intent(self, EventsActivity::class.java)
+            mAPIProvider!!.getEvents().enqueue(object : Callback<allEvents>{
+                override fun onResponse(call: Call<allEvents>, response: Response<allEvents>) {
+                    if (response.isSuccessful()) {
+                        val zoubida = response.body()
+                        println("Zoubida!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+                        if(zoubida != null) {
+                            println(zoubida.data)
+                            println(response.body())
+                            val intent = Intent(self, EventsActivity::class.java)
+                            intent.putExtra("dataAllEvents", zoubida.data)
+                            startActivity(intent)
+                        }else{
+                            showToast("Empty data ( 0 events in BDD )")
+                        }
+                    }
+                }
+                override fun onFailure(call: Call<allEvents>, t: Throwable) {
+                    showToast("Fail to get all events")
+                }
 
-            intent.putExtra("token", "test")
-            startActivity(intent)
+            })
         }
     }
 
