@@ -13,12 +13,17 @@ import android.support.v4.widget.DrawerLayout
 import android.support.design.widget.NavigationView
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
+import android.util.Log
 import android.view.Menu
 import android.view.View
+import android.widget.ListView
 import android.widget.Toast
 import com.api.loginGood
 import retrofit2.Callback
 import kotlinx.android.synthetic.main.dashboard2.*
+import android.support.v4.app.NotificationCompat.getExtras
+import com.api.allEvents
+import com.api.theEvents
 
 class EventsActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -85,6 +90,19 @@ class EventsActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelec
             drawer_layout.closeDrawer(GravityCompat.START)
             true
         }
+        val extras = getIntent().getExtras()
+
+        val intent = getIntent();
+        val bundle = intent.extras
+        val myData = bundle!!.get("dataAllEvents") as theEvents
+        println("ACTIVITY EVENTS")
+        val zubda:theEvents? = myData
+        println(myData)
+//        println(myValue)
+
+//        var listView = findViewById<ListView>(R.id.recipe_list_view)
+//        val listItems = arrayOfNulls<String>(ss.size)
+
 
     }
 
