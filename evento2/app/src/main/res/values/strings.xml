@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">Evento</string>
+	<string name="event_title">Event Title</string>
+	<string name="event_description">Event Description</string>
+	<string name="city">City</string>
+	<string name="country">Country</string>
+</resources>
