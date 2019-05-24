@@ -123,6 +123,12 @@ class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
 
             })
         }
+
+        btn_events.setOnClickListener{
+            val self = this
+            val intent = Intent(self, EventsListActivity::class.java)
+            startActivity(intent)
+        }
     }
 
 
@@ -137,7 +143,7 @@ class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
     }
 
     override fun onBackPressed() {
-        val drawerLayout: DrawerLayout = findViewById(R.id.drawer_dashboard_layout)
+        val drawerLayout: DrawerLayout = findViewById(R.id.drawer_layout)
         if (drawerLayout.isDrawerOpen(GravityCompat.START)) {
             drawerLayout.closeDrawer(GravityCompat.START)
         } else {
@@ -162,7 +168,7 @@ class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
     }
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
-        val drawerLayout: DrawerLayout = findViewById(R.id.drawer_dashboard_layout)
+        val drawerLayout: DrawerLayout = findViewById(R.id.drawer_layout)
         drawerLayout.closeDrawer(GravityCompat.START)
         return true
     }
