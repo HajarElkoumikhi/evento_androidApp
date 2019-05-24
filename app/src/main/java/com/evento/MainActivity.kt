@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.login_activity)
+            setContentView(R.layout.login_activity)
         mAPIProvider = ApiUtils.apiService
 
         login_button.setOnClickListener {
