@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cdac3843c187e9181465ba7f34abd2b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elitia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/943e32ea9be697fa8e129ef2bc41a560/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/53016d7ac83da50fdf2b2e825136eb42/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3239ba7f74559a1e558ba15412e7527e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/bb83b54a33e58b1bd63073af0e6660b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/becc1853d264beb9c04928ceacb15c29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c2455bffd4ea1c2bae592a42984829cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/69acc0ae8409872574ce073c711eac47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e7ecbed1261eb3ae85d6e31fc25b85c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/118056e4774ed05ab010475b4e421f64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1c07efd852bdf3682a7d32ee53a0c6b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/50626ac6123725e3fba64594eef0656e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fb0321a3a48d03dd27dd3489343a2931/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c3faa7216477a2e0816080e88dbf1853/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/07c777bb3081beac79aa53c2634a7498/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bfbc6c0022836c12aef40b2df593390c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9a21e7eaa96a6817a828f711b152d71f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4109a07a79b6899ace105435bc699471/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/231bed14d951e6d707a47a327b32acea/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1c1b998a7f093109318df806660a460/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce47d384cdac18677c14d9e6661c8093/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b4c01249ae2636743a59fb7fba4373d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7aff8b1cfe175510801fc4ecfea66ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/688eb8b387283e9d9a9e58a23e67bf85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/40c9f22836b9cfe6acd0364896f94e23/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ca4f7b0f1c72f612fac4b6b418453b17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c90909ef9a674e82a28fa5c8ed79254f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e23e058109a7e60ed686802f92403435/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d3f81f9b49a9d7407042f13b97b186be/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/157cb2674dd79f232ecabbd35c9302cf/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:3:2-30
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:5:2-64
+	android:name
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:5:19-61
+application
+ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:7:2-22:16
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elitia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/943e32ea9be697fa8e129ef2bc41a560/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elitia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/943e32ea9be697fa8e129ef2bc41a560/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/53016d7ac83da50fdf2b2e825136eb42/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/53016d7ac83da50fdf2b2e825136eb42/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/231bed14d951e6d707a47a327b32acea/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/231bed14d951e6d707a47a327b32acea/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1c1b998a7f093109318df806660a460/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1c1b998a7f093109318df806660a460/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/231bed14d951e6d707a47a327b32acea/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:13:3-29
+	android:label
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:10:3-35
+	android:roundIcon
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:11:3-48
+	android:icon
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:9:3-37
+	android:allowBackup
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:8:3-29
+	android:theme
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:14:3-34
+	android:networkSecurityConfig
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:12:3-63
+activity#com.example.evento.activities.EventsListActivity
+ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:15:3-21:14
+	android:name
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:15:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:16:4-20:20
+action#android.intent.action.MAIN
+ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:17:5-57
+	android:name
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:17:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml:19:15-62
+uses-sdk
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cdac3843c187e9181465ba7f34abd2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cdac3843c187e9181465ba7f34abd2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elitia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/943e32ea9be697fa8e129ef2bc41a560/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elitia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/943e32ea9be697fa8e129ef2bc41a560/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/53016d7ac83da50fdf2b2e825136eb42/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/53016d7ac83da50fdf2b2e825136eb42/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3239ba7f74559a1e558ba15412e7527e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3239ba7f74559a1e558ba15412e7527e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/bb83b54a33e58b1bd63073af0e6660b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/bb83b54a33e58b1bd63073af0e6660b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/becc1853d264beb9c04928ceacb15c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/becc1853d264beb9c04928ceacb15c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c2455bffd4ea1c2bae592a42984829cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c2455bffd4ea1c2bae592a42984829cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/69acc0ae8409872574ce073c711eac47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/69acc0ae8409872574ce073c711eac47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e7ecbed1261eb3ae85d6e31fc25b85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e7ecbed1261eb3ae85d6e31fc25b85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/118056e4774ed05ab010475b4e421f64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/118056e4774ed05ab010475b4e421f64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1c07efd852bdf3682a7d32ee53a0c6b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1c07efd852bdf3682a7d32ee53a0c6b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/50626ac6123725e3fba64594eef0656e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/50626ac6123725e3fba64594eef0656e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fb0321a3a48d03dd27dd3489343a2931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fb0321a3a48d03dd27dd3489343a2931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c3faa7216477a2e0816080e88dbf1853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c3faa7216477a2e0816080e88dbf1853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/07c777bb3081beac79aa53c2634a7498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/07c777bb3081beac79aa53c2634a7498/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bfbc6c0022836c12aef40b2df593390c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bfbc6c0022836c12aef40b2df593390c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9a21e7eaa96a6817a828f711b152d71f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9a21e7eaa96a6817a828f711b152d71f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4109a07a79b6899ace105435bc699471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4109a07a79b6899ace105435bc699471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/231bed14d951e6d707a47a327b32acea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/231bed14d951e6d707a47a327b32acea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1c1b998a7f093109318df806660a460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1c1b998a7f093109318df806660a460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce47d384cdac18677c14d9e6661c8093/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ce47d384cdac18677c14d9e6661c8093/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b4c01249ae2636743a59fb7fba4373d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b4c01249ae2636743a59fb7fba4373d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7aff8b1cfe175510801fc4ecfea66ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7aff8b1cfe175510801fc4ecfea66ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/688eb8b387283e9d9a9e58a23e67bf85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/688eb8b387283e9d9a9e58a23e67bf85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/40c9f22836b9cfe6acd0364896f94e23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/40c9f22836b9cfe6acd0364896f94e23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ca4f7b0f1c72f612fac4b6b418453b17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ca4f7b0f1c72f612fac4b6b418453b17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c90909ef9a674e82a28fa5c8ed79254f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/elitia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c90909ef9a674e82a28fa5c8ed79254f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e23e058109a7e60ed686802f92403435/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e23e058109a7e60ed686802f92403435/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d3f81f9b49a9d7407042f13b97b186be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d3f81f9b49a9d7407042f13b97b186be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/157cb2674dd79f232ecabbd35c9302cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/elitia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/157cb2674dd79f232ecabbd35c9302cf/AndroidManifest.xml:20:5-44
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elitia/Desktop/Elitia/evento/evento_androidApp/evento2/app/src/main/AndroidManifest.xml

@@ -1,6 +1,6 @@
 # evento_androidApp
 
-[![](https://img.shields.io/badge/WEBSITE-BETA-BLUEVIOLET.svg)](websiteBadge)  [![](https://img.shields.io/badge/API-BETA-BLUEVIOLET.svg)](APIBadge)  [![](https://img.shields.io/badge/AndroidApp-EarlyBird-YELLOW.svg)](AndroidAppBadge)  [![](https://img.shields.io/badge/iOSApp-EarlyBird-YELLOW.svg)](iOSAppBadge)
+[![](https://img.shields.io/badge/WEBSITE-BETA-BLUEVIOLET.svg)](websiteBadge)  [![](https://img.shields.io/badge/API-Prod-GREEN.svg)](APIBadge)  [![](https://img.shields.io/badge/AndroidApp-EarlyBird-YELLOW.svg)](AndroidAppBadge)  [![](https://img.shields.io/badge/iOSApp-EarlyBird-YELLOW.svg)](iOSAppBadge)
 
 "Evento" is our first-year-traineeship project. It's about "events management".
 
